@@ -211,4 +211,19 @@ public class SysConfigServiceImpl implements ISysConfigService
     {
         return Constants.SYS_CONFIG_KEY + configKey;
     }
+
+    /**
+     * 赋值测试
+     * @return: java.lang.String
+     * @author: Liu JiaJia
+     * @Date: 2022/7/7 11:45
+     */
+    public String test(){
+        //赋值测试
+        String test="";
+        String Test1="ceshi";
+        System.out.println("");
+
+        return "";
+    }
 }
